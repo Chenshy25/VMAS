@@ -1,5 +1,5 @@
-###RL-final Homework
-###citing VMAS:
+### RL-final Homework
+### citing VMAS:
 @article{bettini2022vmas,
   title = {VMAS: A Vectorized Multi-Agent Simulator for Collective Robot Learning},
   author = {Bettini, Matteo and Kortvelesy, Ryan and Blumenkamp, Jan and Prorok, Amanda},
